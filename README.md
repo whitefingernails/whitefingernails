@@ -16,6 +16,10 @@
 </div>
 
 <div align="center">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=niiquel&count=1&bg_color=000000&border_radius=10&width=500" />
+</div>
+
+<div align="center">
 <a href="https://t.me/SEUUSER"><img src="https://cdn.simpleicons.org/telegram/white" width="22" style="margin: 0 6px;"/></a>
 <a href="https://discord.gg/SEULINK"><img src="https://cdn.simpleicons.org/discord/white" width="22" style="margin: 0 6px;"/></a>
 <a href="https://roblox.com/users/SEUID/profile"><img src="https://cdn.simpleicons.org/roblox/white" width="22" style="margin: 0 6px;"/></a>
@@ -24,8 +28,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=whitefingernails&label=views&color=grey&style=plastic" />
-</div>
-
-<div align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=niiquel&count=1&bg_color=000000&border_radius=10&width=500" />
 </div>
