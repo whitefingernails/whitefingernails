@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/yovo1bJ0xFYAAAAd/matrix-code.gif" width="100%" height="140"/>
+  <img src="https://raw.githubusercontent.com/whitefingernails/whitefingernails/refs/heads/main/assets/cmatrix-white.svg" width="100%" height="120"/>
 </div>
 
 <div align="center">
