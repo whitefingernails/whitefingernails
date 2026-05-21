@@ -19,6 +19,10 @@
 </div>
 
 <div align="center">
+  <img src="https://i.pinimg.com/originals/85/9b/0d/859b0d5fdaa8d4c1d4f5c0e4d9f5b3e.gif" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=niiquel&count=1&bg_color=000000&border_radius=10&width=700" />
 </div>
 
