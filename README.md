@@ -5,7 +5,9 @@
 <div align="center">
   <img height="150" src="https://files.catbox.moe/bw1xsz.png"  />
 </div>
-<h2 align="center">oz7qd</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=40&pause=999999&color=808080&center=true&vCenter=true&width=500&lines=oz7qd" />
+</div>
 
 <h6 align="center">I can't work, lil' bitch, I'm tatted out my fuckin' collar</h6>
 
