@@ -17,5 +17,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=whitefingernails &color=grey&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=whitefingernails&label=👁&color=00000000&style=flat" />
 </div>
