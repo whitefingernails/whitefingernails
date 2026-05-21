@@ -17,5 +17,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=whitefingernails&label=profilevisits&color=grey&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=whitefingernails&label=views&color=grey&style=plastic" />
 </div>
