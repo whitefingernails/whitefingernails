@@ -20,7 +20,7 @@
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/whitefingernails/whitefingernails/refs/heads/main/assets/cmatrix-white.svg"
+    src="https://raw.githubusercontent.com/whitefingernails/whitefingernails/main/assets/cmatrix-white.svg"
     width="75%"
   />
 </div>
