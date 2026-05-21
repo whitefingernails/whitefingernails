@@ -1,0 +1,58 @@
+<svg width="1000" height="120" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.text {
+  fill: white;
+  font-family: monospace;
+  font-size: 16px;
+  opacity: 0.8;
+  filter: drop-shadow(0 0 6px white);
+}
+
+.column {
+  animation: fall linear infinite;
+}
+
+.c1 { animation-duration: 6s; animation-delay: -1s; }
+.c2 { animation-duration: 8s; animation-delay: -3s; }
+.c3 { animation-duration: 7s; animation-delay: -2s; }
+.c4 { animation-duration: 9s; animation-delay: -5s; }
+.c5 { animation-duration: 5s; animation-delay: -4s; }
+.c6 { animation-duration: 10s; animation-delay: -6s; }
+
+@keyframes fall {
+  from {
+    transform: translateY(-140px);
+  }
+
+  to {
+    transform: translateY(140px);
+  }
+}
+</style>
+
+<g class="column c1">
+  <text x="80" y="10" class="text">0 1 ア 7 9 B X Z</text>
+</g>
+
+<g class="column c2">
+  <text x="220" y="20" class="text">Y 4 1 コ 8 M Q 2</text>
+</g>
+
+<g class="column c3">
+  <text x="360" y="0" class="text">7 L 0 N シ 3 9 P</text>
+</g>
+
+<g class="column c4">
+  <text x="520" y="15" class="text">A 5 タ 1 X 8 0 K</text>
+</g>
+
+<g class="column c5">
+  <text x="700" y="5" class="text">3 J 7 R メ 2 V 0</text>
+</g>
+
+<g class="column c6">
+  <text x="860" y="25" class="text">Q 1 4 ナ 8 Z T 6</text>
+</g>
+
+</svg>
