@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=niiquel&count=1&width=500" />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=niiquel&count=1&bg_color=000000&border_radius=10&width=700" />
 </div>
 
 <div align="center">
