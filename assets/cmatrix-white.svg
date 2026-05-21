@@ -1,58 +1,123 @@
-<svg width="1000" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="1200" xmlns="http://www.w3.org/2000/svg">
 
 <style>
+svg {
+  background: transparent;
+}
+
 .text {
   fill: white;
   font-family: monospace;
-  font-size: 16px;
-  opacity: 0.8;
-  filter: drop-shadow(0 0 6px white);
+  font-size: 18px;
+  opacity: 0.85;
+  filter: drop-shadow(0 0 8px white);
+  writing-mode: vertical-rl;
+  text-orientation: upright;
 }
 
 .column {
-  animation: fall linear infinite;
+  animation-name: fall;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
 }
-
-.c1 { animation-duration: 6s; animation-delay: -1s; }
-.c2 { animation-duration: 8s; animation-delay: -3s; }
-.c3 { animation-duration: 7s; animation-delay: -2s; }
-.c4 { animation-duration: 9s; animation-delay: -5s; }
-.c5 { animation-duration: 5s; animation-delay: -4s; }
-.c6 { animation-duration: 10s; animation-delay: -6s; }
 
 @keyframes fall {
   from {
-    transform: translateY(-140px);
+    transform: translateY(-1400px);
   }
 
   to {
-    transform: translateY(140px);
+    transform: translateY(1400px);
   }
 }
 </style>
 
-<g class="column c1">
-  <text x="80" y="10" class="text">0 1 ア 7 9 B X Z</text>
+<g class="column" style="animation-duration:6s; animation-delay:-1s;">
+<text x="20" y="-100" class="text">01アX7コ91メ0ZQ</text>
 </g>
 
-<g class="column c2">
-  <text x="220" y="20" class="text">Y 4 1 コ 8 M Q 2</text>
+<g class="column" style="animation-duration:8s; animation-delay:-5s;">
+<text x="60" y="-300" class="text">7メA91タ0XコL2</text>
 </g>
 
-<g class="column c3">
-  <text x="360" y="0" class="text">7 L 0 N シ 3 9 P</text>
+<g class="column" style="animation-duration:5s; animation-delay:-2s;">
+<text x="100" y="-500" class="text">QW81ナM0シ2XZ</text>
 </g>
 
-<g class="column c4">
-  <text x="520" y="15" class="text">A 5 タ 1 X 8 0 K</text>
+<g class="column" style="animation-duration:7s; animation-delay:-3s;">
+<text x="140" y="-200" class="text">0123ZXCVBNMア</text>
 </g>
 
-<g class="column c5">
-  <text x="700" y="5" class="text">3 J 7 R メ 2 V 0</text>
+<g class="column" style="animation-duration:9s; animation-delay:-4s;">
+<text x="180" y="-700" class="text">メタナシコXYZ1</text>
 </g>
 
-<g class="column c6">
-  <text x="860" y="25" class="text">Q 1 4 ナ 8 Z T 6</text>
+<g class="column" style="animation-duration:4s; animation-delay:-1s;">
+<text x="220" y="-900" class="text">9876543210AAA</text>
+</g>
+
+<g class="column" style="animation-duration:6s; animation-delay:-6s;">
+<text x="260" y="-400" class="text">ZXCVBNMASDFGH</text>
+</g>
+
+<g class="column" style="animation-duration:10s; animation-delay:-2s;">
+<text x="300" y="-1200" class="text">コメタシナ01XZ</text>
+</g>
+
+<g class="column" style="animation-duration:5s; animation-delay:-7s;">
+<text x="340" y="-600" class="text">1110001010101</text>
+</g>
+
+<g class="column" style="animation-duration:7s; animation-delay:-4s;">
+<text x="380" y="-1000" class="text">POIUYTREWQメ</text>
+</g>
+
+<g class="column" style="animation-duration:8s; animation-delay:-3s;">
+<text x="420" y="-200" class="text">タナシコ01ABC</text>
+</g>
+
+<g class="column" style="animation-duration:5s; animation-delay:-5s;">
+<text x="460" y="-700" class="text">LMNOPQRSTUV</text>
+</g>
+
+<g class="column" style="animation-duration:9s; animation-delay:-1s;">
+<text x="500" y="-1300" class="text">メタナXYZ012</text>
+</g>
+
+<g class="column" style="animation-duration:6s; animation-delay:-4s;">
+<text x="540" y="-300" class="text">ABCDEFGHIJK</text>
+</g>
+
+<g class="column" style="animation-duration:7s; animation-delay:-6s;">
+<text x="580" y="-800" class="text">010101010101</text>
+</g>
+
+<g class="column" style="animation-duration:5s; animation-delay:-2s;">
+<text x="620" y="-1100" class="text">コナシメタXZ</text>
+</g>
+
+<g class="column" style="animation-duration:8s; animation-delay:-5s;">
+<text x="660" y="-500" class="text">QAZWSXEDCRFV</text>
+</g>
+
+<g class="column" style="animation-duration:6s; animation-delay:-1s;">
+<text x="700" y="-900" class="text">123456789ABC</text>
+</g>
+
+<g class="column" style="animation-duration:9s; animation-delay:-7s;">
+<text x="740" y="-400" class="text">メタシナコXYZ</text>
+</g>
+
+<g class="column" style="animation-duration:4s; animation-delay:-3s;">
+<text x="780" y="-1200" class="text">MMMM0000ZZZZ</text>
+</g>
+
+<g class="column" style="animation-duration:7s; animation-delay:-6s;">
+<text x="820" y="-700" class="text">POWERRICEWM</text>
+</g>
+
+<g class="column" style="animation-duration:5s; animation-delay:-2s;">
+<text x="860" y="-1000" class="text">アコメタナ01</text>
 </g>
 
 </svg>
