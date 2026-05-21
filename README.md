@@ -27,5 +27,5 @@
 </div>
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/1496859920623079432?theme=dark&bg=00000000&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=probably%20listening%20to%20music..." />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=niiquel&count=1&bg_color=000000&border_radius=10&width=500" />
 </div>
