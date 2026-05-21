@@ -19,7 +19,9 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/85/9b/0d/859b0d5fdaa8d4c1d4f5c0e4d9f5b3e.gif" width="100%"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
 
 <div align="center">
