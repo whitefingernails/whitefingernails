@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img height="80" src="https://files.catbox.moe/bw1xsz.png"  />
+  <img height="150" src="https://files.catbox.moe/bw1xsz.png"  />
 </div>
 
 <h2 align="center">oz7qd</h2>
