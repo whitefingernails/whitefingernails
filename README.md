@@ -20,7 +20,38 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.matrix {
+  fill: white;
+  font-family: monospace;
+  font-size: 14px;
+  opacity: 0.8;
+  filter: drop-shadow(0 0 6px white);
+  animation: fall 4s linear infinite;
+}
+
+@keyframes fall {
+  from {
+    transform: translateY(-120px);
+  }
+  to {
+    transform: translateY(140px);
+  }
+}
+</style>
+
+<text x="50" y="20" class="matrix">010101001</text>
+<text x="120" y="50" class="matrix" style="animation-delay:1s;">101010101</text>
+<text x="220" y="10" class="matrix" style="animation-delay:2s;">110010101</text>
+<text x="340" y="40" class="matrix" style="animation-delay:0.5s;">001101010</text>
+<text x="460" y="70" class="matrix" style="animation-delay:1.5s;">101101001</text>
+<text x="580" y="30" class="matrix" style="animation-delay:2.5s;">010110100</text>
+<text x="700" y="60" class="matrix" style="animation-delay:0.8s;">111001010</text>
+<text x="820" y="20" class="matrix" style="animation-delay:1.8s;">001010111</text>
+
+</svg>
 
 </div>
 
