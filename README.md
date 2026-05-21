@@ -19,7 +19,10 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/whitefingernails/whitefingernails/refs/heads/main/assets/cmatrix-white.svg" width="100%" height="120"/>
+  <img 
+    src="https://raw.githubusercontent.com/whitefingernails/whitefingernails/refs/heads/main/assets/cmatrix-white.svg"
+    width="75%"
+  />
 </div>
 
 <div align="center">
