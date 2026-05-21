@@ -13,6 +13,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&text=I%20can't%20work,%20lil'%20bitch,%20I'm%20tatted%20out%20my%20fuckin'%20collar&fontSize=16&fontColor=808080&animation=fadeIn"/>
 
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark" height="80"/>
+</div>
+
 </div>
 
 <div align="center">
