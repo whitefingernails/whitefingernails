@@ -8,14 +8,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=oz7qd" />
 </div>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=2&section=header"/>
+</div>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&text=I%20can't%20work,%20lil'%20bitch,%20I'm%20tatted%20out%20my%20fuckin'%20collar&fontSize=16&fontColor=808080&animation=fadeIn"/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=2&section=header"/>
-</div>
 
 </div>
 
