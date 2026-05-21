@@ -3,14 +3,15 @@
 <style>
 svg {
   background: transparent;
+  overflow: hidden;
 }
 
 .text {
   fill: white;
   font-family: monospace;
   font-size: 18px;
-  opacity: 0.85;
-  filter: drop-shadow(0 0 8px white);
+  opacity: 0.9;
+  filter: drop-shadow(0 0 10px white);
   writing-mode: vertical-rl;
   text-orientation: upright;
 }
@@ -23,101 +24,49 @@ svg {
 
 @keyframes fall {
   from {
-    transform: translateY(-1400px);
+    transform: translateY(-1600px);
   }
 
   to {
-    transform: translateY(1400px);
+    transform: translateY(2200px);
   }
 }
 </style>
 
-<g class="column" style="animation-duration:6s; animation-delay:-1s;">
-<text x="20" y="-100" class="text">01アX7コ91メ0ZQ</text>
-</g>
-
-<g class="column" style="animation-duration:8s; animation-delay:-5s;">
-<text x="60" y="-300" class="text">7メA91タ0XコL2</text>
-</g>
-
-<g class="column" style="animation-duration:5s; animation-delay:-2s;">
-<text x="100" y="-500" class="text">QW81ナM0シ2XZ</text>
-</g>
-
-<g class="column" style="animation-duration:7s; animation-delay:-3s;">
-<text x="140" y="-200" class="text">0123ZXCVBNMア</text>
-</g>
-
-<g class="column" style="animation-duration:9s; animation-delay:-4s;">
-<text x="180" y="-700" class="text">メタナシコXYZ1</text>
-</g>
-
-<g class="column" style="animation-duration:4s; animation-delay:-1s;">
-<text x="220" y="-900" class="text">9876543210AAA</text>
-</g>
-
-<g class="column" style="animation-duration:6s; animation-delay:-6s;">
-<text x="260" y="-400" class="text">ZXCVBNMASDFGH</text>
-</g>
-
-<g class="column" style="animation-duration:10s; animation-delay:-2s;">
-<text x="300" y="-1200" class="text">コメタシナ01XZ</text>
-</g>
-
-<g class="column" style="animation-duration:5s; animation-delay:-7s;">
-<text x="340" y="-600" class="text">1110001010101</text>
-</g>
-
-<g class="column" style="animation-duration:7s; animation-delay:-4s;">
-<text x="380" y="-1000" class="text">POIUYTREWQメ</text>
-</g>
-
-<g class="column" style="animation-duration:8s; animation-delay:-3s;">
-<text x="420" y="-200" class="text">タナシコ01ABC</text>
-</g>
-
-<g class="column" style="animation-duration:5s; animation-delay:-5s;">
-<text x="460" y="-700" class="text">LMNOPQRSTUV</text>
-</g>
-
-<g class="column" style="animation-duration:9s; animation-delay:-1s;">
-<text x="500" y="-1300" class="text">メタナXYZ012</text>
-</g>
-
-<g class="column" style="animation-duration:6s; animation-delay:-4s;">
-<text x="540" y="-300" class="text">ABCDEFGHIJK</text>
-</g>
-
-<g class="column" style="animation-duration:7s; animation-delay:-6s;">
-<text x="580" y="-800" class="text">010101010101</text>
-</g>
-
-<g class="column" style="animation-duration:5s; animation-delay:-2s;">
-<text x="620" y="-1100" class="text">コナシメタXZ</text>
-</g>
-
-<g class="column" style="animation-duration:8s; animation-delay:-5s;">
-<text x="660" y="-500" class="text">QAZWSXEDCRFV</text>
-</g>
-
-<g class="column" style="animation-duration:6s; animation-delay:-1s;">
-<text x="700" y="-900" class="text">123456789ABC</text>
-</g>
-
-<g class="column" style="animation-duration:9s; animation-delay:-7s;">
-<text x="740" y="-400" class="text">メタシナコXYZ</text>
-</g>
-
-<g class="column" style="animation-duration:4s; animation-delay:-3s;">
-<text x="780" y="-1200" class="text">MMMM0000ZZZZ</text>
-</g>
-
-<g class="column" style="animation-duration:7s; animation-delay:-6s;">
-<text x="820" y="-700" class="text">POWERRICEWM</text>
-</g>
-
-<g class="column" style="animation-duration:5s; animation-delay:-2s;">
-<text x="860" y="-1000" class="text">アコメタナ01</text>
-</g>
+<g class="column" style="animation-duration:4s; animation-delay:-1s;"><text x="10" y="-1200" class="text">ア01XZメタ789QWERTYUIOP</text></g>
+<g class="column" style="animation-duration:6s; animation-delay:-3s;"><text x="35" y="-1000" class="text">ZXCVBNMASDFGHJKL123456</text></g>
+<g class="column" style="animation-duration:5s; animation-delay:-2s;"><text x="60" y="-1500" class="text">コメタナシ0123456789</text></g>
+<g class="column" style="animation-duration:7s; animation-delay:-4s;"><text x="85" y="-900" class="text">QAZWSXEDCRFVTGBYHNUJ</text></g>
+<g class="column" style="animation-duration:4s; animation-delay:-5s;"><text x="110" y="-1300" class="text">111000101010101010101</text></g>
+<g class="column" style="animation-duration:8s; animation-delay:-6s;"><text x="135" y="-700" class="text">POIUYTREWQLKJHGFDSA</text></g>
+<g class="column" style="animation-duration:5s; animation-delay:-2s;"><text x="160" y="-1600" class="text">メタシナコXYZABCDEFGHI</text></g>
+<g class="column" style="animation-duration:6s; animation-delay:-7s;"><text x="185" y="-1100" class="text">9876543210MMMMZZZZ</text></g>
+<g class="column" style="animation-duration:4s; animation-delay:-3s;"><text x="210" y="-800" class="text">タナコメ01ZXCVBNM</text></g>
+<g class="column" style="animation-duration:7s; animation-delay:-5s;"><text x="235" y="-1400" class="text">ABCDEFGHIJKLMNOPQRST</text></g>
+<g class="column" style="animation-duration:5s; animation-delay:-1s;"><text x="260" y="-1200" class="text">01010101010101010101</text></g>
+<g class="column" style="animation-duration:6s; animation-delay:-4s;"><text x="285" y="-1000" class="text">シナメタXYZ123456789</text></g>
+<g class="column" style="animation-duration:8s; animation-delay:-6s;"><text x="310" y="-700" class="text">QWERTYUIOPASDFGHJKL</text></g>
+<g class="column" style="animation-duration:4s; animation-delay:-2s;"><text x="335" y="-1500" class="text">ZXCVBNM1234567890</text></g>
+<g class="column" style="animation-duration:5s; animation-delay:-5s;"><text x="360" y="-900" class="text">アコメタナシQAZWSX</text></g>
+<g class="column" style="animation-duration:7s; animation-delay:-7s;"><text x="385" y="-1600" class="text">MMMMMMMM000000ZZZZ</text></g>
+<g class="column" style="animation-duration:6s; animation-delay:-3s;"><text x="410" y="-1000" class="text">ABCDEFGHIJKLMNXYZ</text></g>
+<g class="column" style="animation-duration:4s; animation-delay:-1s;"><text x="435" y="-1400" class="text">10101010101010101010</text></g>
+<g class="column" style="animation-duration:5s; animation-delay:-4s;"><text x="460" y="-800" class="text">ナシメタコQWERTYU</text></g>
+<g class="column" style="animation-duration:8s; animation-delay:-6s;"><text x="485" y="-1300" class="text">POIUYTREWQASDFGHJK</text></g>
+<g class="column" style="animation-duration:6s; animation-delay:-2s;"><text x="510" y="-1100" class="text">ZXCVBNMLKJHGFDSAQ</text></g>
+<g class="column" style="animation-duration:4s; animation-delay:-5s;"><text x="535" y="-1500" class="text">メタナシコ012345</text></g>
+<g class="column" style="animation-duration:7s; animation-delay:-7s;"><text x="560" y="-900" class="text">AAAAAAAAZZZZZZZZ</text></g>
+<g class="column" style="animation-duration:5s; animation-delay:-1s;"><text x="585" y="-1200" class="text">QAZWSXEDCRFVTGB</text></g>
+<g class="column" style="animation-duration:6s; animation-delay:-4s;"><text x="610" y="-700" class="text">0123456789ABCDEFGHI</text></g>
+<g class="column" style="animation-duration:4s; animation-delay:-2s;"><text x="635" y="-1400" class="text">コメタナシZXCVBNM</text></g>
+<g class="column" style="animation-duration:8s; animation-delay:-6s;"><text x="660" y="-1000" class="text">MMMM00001111ZZZZ</text></g>
+<g class="column" style="animation-duration:5s; animation-delay:-3s;"><text x="685" y="-1600" class="text">QWERTYUIOPLKJHGF</text></g>
+<g class="column" style="animation-duration:7s; animation-delay:-5s;"><text x="710" y="-1100" class="text">10101010101010101</text></g>
+<g class="column" style="animation-duration:4s; animation-delay:-1s;"><text x="735" y="-800" class="text">シナメタコABCDE</text></g>
+<g class="column" style="animation-duration:6s; animation-delay:-7s;"><text x="760" y="-1300" class="text">ZXCVBNMASDFGHJK</text></g>
+<g class="column" style="animation-duration:5s; animation-delay:-4s;"><text x="785" y="-1500" class="text">1234567890QWERTY</text></g>
+<g class="column" style="animation-duration:8s; animation-delay:-2s;"><text x="810" y="-900" class="text">ナシメタコZXCVB</text></g>
+<g class="column" style="animation-duration:6s; animation-delay:-5s;"><text x="835" y="-1600" class="text">MMMMMMMMMMMMMMM</text></g>
+<g class="column" style="animation-duration:4s; animation-delay:-3s;"><text x="860" y="-1200" class="text">010101010101010</text></g>
 
 </svg>
