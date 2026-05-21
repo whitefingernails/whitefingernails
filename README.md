@@ -15,3 +15,7 @@
 <a href="https://roblox.com/users/SEUID/profile"><img src="https://cdn.simpleicons.org/roblox/white" width="22" style="margin: 0 6px;"/></a>
 <a href="https://tiktok.com/@SEUUSER"><img src="https://cdn.simpleicons.org/tiktok/white" width="22" style="margin: 0 6px;"/></a>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=whitefingernails &color=grey&style=flat-square"/>
+</div>
