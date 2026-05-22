@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://files.catbox.moe/a0nkkp.png"  />
+  <img height="150" src="https://files.catbox.moe/g7wjde.png"  />
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=oz7qd" />
