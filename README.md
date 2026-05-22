@@ -15,13 +15,6 @@
 
 </div>
 
-<style>
-@keyframes glowPulse {
-  0%   { filter: drop-shadow(0 0 10px #ffffff) drop-shadow(0 0 20px #ffffff) drop-shadow(0 0 35px #a0a0ff); opacity: 0.85; }
-  100% { filter: drop-shadow(0 0 20px #ffffff) drop-shadow(0 0 40px #ffffff) drop-shadow(0 0 70px #c0c0ff); opacity: 1; }
-}
-</style>
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=2&section=header"/>
 </div>
