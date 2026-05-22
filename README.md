@@ -9,8 +9,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=oz7qd" />
 </div>
 
-<div <div align="center">
-  <img height="250" src="https://files.catbox.moe/14cml4.png"  />
+<div align="center">
+  <img height="250" 
+       src="https://files.catbox.moe/14cml4.png" 
+       style="animation: slowBlink 5s infinite ease-in-out;" />
+</div>
+
+<style>
+@keyframes slowBlink {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0.25; }
+}
+</style>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=2&section=header"/>
