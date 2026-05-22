@@ -17,7 +17,7 @@
 <tr>
 <td>
 
-<img src="https://files.catbox.moe/p47wbs.png" width="18">
+<img src="https://files.catbox.moe/p47wbs.png" width="50">
 
 </td>
 
