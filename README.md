@@ -29,10 +29,7 @@
 <div align="center">
 
 <div align="center">
-  <img 
-    src="https://lastfm-recently-played.vercel.app/api?user=niiquel&count=1&width=500&header_style=none&border_radius=18"
-    style="filter: invert(1) hue-rotate(180deg); border-radius:18px;"
-  />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=niiquel&count=1&width=500&bg_color=535454&border_radius=12&header_style=none" />
 </div>
 
 ###
