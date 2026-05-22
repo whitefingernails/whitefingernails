@@ -13,10 +13,6 @@
   <img height="250" src="https://files.catbox.moe/kjv9bp.png"  />
 
 <div align="center">
-  <img height="250" src="https://files.catbox.moe/kjv9bp.png"  />
-</div>
-
-<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=2&section=header"/>
 </div>
 
