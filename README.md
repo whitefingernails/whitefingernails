@@ -39,6 +39,7 @@
 <a href="https://discord.com/users/1496859920623079432"><img src="https://cdn.simpleicons.org/discord/white" width="22" style="margin: 0 6px;"/></a>
 <a href="https://www.roblox.com/pt/users/10580773925/profile"><img src="https://cdn.simpleicons.org/roblox/white" width="22" style="margin: 0 6px;"/></a>
 <a href="https://www.tiktok.com/@niiquel?_r=1&_t=ZS-96YipkJmdmf"><img src="https://cdn.simpleicons.org/tiktok/white" width="22" style="margin: 0 6px;"/></a>
+<a href="https://www.instagram.com/oz7qd/profilecard/?igsh=aGh4b2x1NnViam9p"><img src="https://cdn.simpleicons.org/instagram/white" width="22" style="margin: 0 6px;"/></a>
 </div>
 
 <div align="center">
