@@ -26,7 +26,13 @@
   />
 </div>
 
-<div align="center">
+###
+
+<div align="left">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&section=header&text=RECENTLY%20PLAYED&fontSize=18&fontColor=FFFFFF&animation=twinkling"/>
+
+</div>
 
 <div align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=niiquel&count=1&width=500&bg_color=00000000&border_radius=12&header_style=none" />
