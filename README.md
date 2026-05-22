@@ -29,7 +29,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://lastfm-card.d3vb.com/api/card?user=niiquel&theme=light&hide_badge=true" width="500"/>
+  <img src="https://lastfm-card.d3vb.com/api/card?user=niiquel&theme=white" width="500"/>
 </div>
 
 ###
