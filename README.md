@@ -11,26 +11,31 @@
 
 <div align="center">
 
-<p align="center">
+<div align="center">
 
-<img src="https://files.catbox.moe/p47wbs.png"
-width="18"
-style="vertical-align:-2px; margin-right:8px; filter:drop-shadow(0 0 6px white);" />
+<table>
+<tr>
+<td>
 
-<span style="
-color:white;
-font-family:'Segoe UI', sans-serif;
-font-size:16px;
-line-height:1.8;
-text-shadow:0 0 8px white;
-opacity:0.85;
-">
+<img src="https://files.catbox.moe/p47wbs.png" width="18">
+
+</td>
+
+<td>
+
+<p align="left">
+
+<samp>
 
 Jealousy is both reasonable and belongs to reasonable men, while envy is base and belongs to the base, for the one makes himself get good things by jealousy, while the other does not allow his neighbour to have them through envy.
 
-</span>
+</samp>
 
 </p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
