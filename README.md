@@ -29,7 +29,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=niiquel&count=1&width=500&bg_color=FFFFFF&text_color=000000&border_radius=18" />
+  <img src="https://lastfm-card.d3vb.com/api/card?user=niiquel&theme=light&hide_badge=true" width="500"/>
 </div>
 
 ###
