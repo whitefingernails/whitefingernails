@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=oz7qd" />
 </div>
 <div <div align="center">
-  <img height="250" src="https://files.catbox.moe/14cml4.png"  />
+  <img height="250" src="https://files.catbox.moe/pil1rb.png"  />
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=2&section=header"/>
