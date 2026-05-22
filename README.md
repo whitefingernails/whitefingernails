@@ -10,9 +10,9 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=50&section=header&text=—%20I%20can't%20work,%20lil'%20bitch,%20I'm%20tatted%20out%20my%20fuckin'%20collar%20—&fontSize=17&fontColor=ffffff&animation=fadeIn" 
-       style="filter: drop-shadow(0 0 15px #ffffff) drop-shadow(0 0 30px #ffffff) drop-shadow(0 0 50px #a0a0ff); 
-              animation: glowPulse 6s ease-in-out infinite alternate;">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=50&section=header&text=—%20I%20can't%20work,%20lil'%20bitch,%20I'm%20tatted%20out%20my%20fuckin'%20collar%20—&fontSize=18&fontColor=FFFFFF&animation=twinkling"/>
+
 </div>
 
 <style>
