@@ -8,6 +8,20 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=oz7qd" />
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=50&section=header&text=—%20I%20can't%20work,%20lil'%20bitch,%20I'm%20tatted%20out%20my%20fuckin'%20collar%20—&fontSize=17&fontColor=ffffff&animation=fadeIn" 
+       style="filter: drop-shadow(0 0 15px #ffffff) drop-shadow(0 0 30px #ffffff) drop-shadow(0 0 50px #a0a0ff); 
+              animation: glowPulse 6s ease-in-out infinite alternate;">
+</div>
+
+<style>
+@keyframes glowPulse {
+  0%   { filter: drop-shadow(0 0 10px #ffffff) drop-shadow(0 0 20px #ffffff) drop-shadow(0 0 35px #a0a0ff); opacity: 0.85; }
+  100% { filter: drop-shadow(0 0 20px #ffffff) drop-shadow(0 0 40px #ffffff) drop-shadow(0 0 70px #c0c0ff); opacity: 1; }
+}
+</style>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=2&section=header"/>
 </div>
@@ -20,10 +34,6 @@
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&text=—%20I%20can't%20work,%20lil'%20bitch,%20I'm%20tatted%20out%20my%20fuckin'%20collar%20—&fontSize=16&fontColor=808080&animation=fadeIn"/>
-
-</div>
 
 <div align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=niiquel&count=1&bg_color=000000&border_radius=10&width=700" />
