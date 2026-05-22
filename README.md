@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div style="margin-left: 90px;">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=35&section=header&text=RECENTLY%20PLAYED&fontSize=18&fontColor=FFFFFF&animation=twinkling"/>
 
