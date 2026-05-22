@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=50&section=header&text=—%20I%20can't%20work,%20lil'%20bitch,%20I'm%20tatted%20out%20my%20fuckin'%20collar%20—&fontSize=18&fontColor=FFFFFF&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=50&section=header&text=Jealousy%20is%20both%20reasonable%20and%20belongs%20to%20reasonable%20men,%20while%20envy%20is%20base%20and%20belongs%20to%20the%20base,%20for%20the%20one%20makes%20himself%20get%20good%20things%20by%20jealousy,%20while%20the%20other%20does%20not%20allow%20his%20neighbour%20to%20have%20them%20through%20envy.&fontSize=18&fontColor=FFFFFF&animation=twinkling"/>
 
 </div>
 
