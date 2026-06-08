@@ -25,7 +25,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=oz7qd">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=niquel">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=niquel">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=oz7qd" />
   </picture>
